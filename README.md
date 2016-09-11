@@ -1,7 +1,5 @@
-# vivid.js
-An grapic JavaScript libary
+# vivid
 
-Implement algorithm to graphic utility, for learning and interest.
 
-Inspire by [rune.js](https://github.com/runemadsen/rune.js)
+Implementation of varity css animation by CSS3
 
